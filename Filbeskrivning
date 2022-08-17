@@ -1,0 +1,4 @@
+arduinoir	Skickar ir-signalen PÅ/AV till Yamaha 		UNO-clone
+mammasir	Mammas fjärr								ATtiny85 på breadboard
+IRRemote	IR-mottagare. tolkar signaler från fjärr.	UNO origi
+ArdinoISP	Programmerare								UNO-clone
